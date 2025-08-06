@@ -1,4 +1,4 @@
 # add_users
+cd /home/jialai/adduser
 sudo su
-
-bash xxx.sh
+bash add_single.sh
